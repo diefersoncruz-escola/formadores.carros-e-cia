@@ -1,6 +1,9 @@
 body{
     background-color: crimson;
 }
+.titulo-justificado{
+    text-align: justify;
+}
 p{
     color: crimson;
 }
