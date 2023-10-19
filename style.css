@@ -1,6 +1,10 @@
 body{
     background-color: crimson;
 }
+
+h1{
+    text-decoration: overline underline;
+}
 .titulo-centralizado{
     text-align: center;
 }
@@ -10,10 +14,8 @@ p{
 
 .div-center {
     display: grid;
-    margin: 0;
     background-color: whitesmoke;
-    justify-content: center; /* alinha horizontalmente */
-    align-content: center; /* alinha verticalmente */
-    height: 90vh; /* altura total da viewport */
-    width: 90vw;/* 90% total da viewport */
+    place-items: center; /* alinha horizontalmente e verticalmente */
+    height: 90vh; /* 90% da altura total da viewport */
+    width: 90vw; /* 90% da largura total da viewport */
   }
