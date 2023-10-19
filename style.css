@@ -1,8 +1,8 @@
 body{
     background-color: crimson;
 }
-.titulo-justificado{
-    text-align: justify;
+.titulo-centralizado{
+    text-align: center;
 }
 p{
     color: crimson;
