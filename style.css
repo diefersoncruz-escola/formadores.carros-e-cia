@@ -2,8 +2,9 @@ p{
     color: crimson;
 }
 
-.div-center{
-    margin: 0;
-    align-items: center;
-    width: 90%;
-}
+.div-center {
+    display: grid;
+    justify-content: center; /* alinha horizontalmente */
+    align-content: center; /* alinha verticalmente */
+    height: 100vh; /* altura total da viewport */
+  }
