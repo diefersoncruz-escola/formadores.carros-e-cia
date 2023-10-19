@@ -1,8 +1,12 @@
+body{
+    background-color: crimson;
+}
 p{
     color: crimson;
 }
 
 .div-center {
+    background-color: lightslategray;
     display: grid;
     justify-content: center; /* alinha horizontalmente */
     align-content: center; /* alinha verticalmente */
