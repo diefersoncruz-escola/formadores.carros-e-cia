@@ -10,6 +10,7 @@ p{
 
 .div-center {
     display: grid;
+    margin: 0;
     background-color: whitesmoke;
     justify-content: center; /* alinha horizontalmente */
     align-content: center; /* alinha verticalmente */
