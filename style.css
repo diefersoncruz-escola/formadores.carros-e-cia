@@ -6,7 +6,7 @@ p{
 }
 
 .div-center {
-    display: flex;
+    display: grid;
     background-color: whitesmoke;
     justify-content: center; /* alinha horizontalmente */
     align-content: center; /* alinha verticalmente */
