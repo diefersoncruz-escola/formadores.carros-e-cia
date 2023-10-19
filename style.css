@@ -3,12 +3,14 @@ body{
 }
 
 h1{
-    margin-top: 0;
     text-decoration: overline underline;
+    margin-top: 0%;
 }
+
 .titulo-centralizado{
     text-align: center;
 }
+
 p{
     color: crimson;
 }
