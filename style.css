@@ -7,4 +7,5 @@ p{
     justify-content: center; /* alinha horizontalmente */
     align-content: center; /* alinha verticalmente */
     height: 100vh; /* altura total da viewport */
+    width: 90vw;/* 90% total da viewport */
   }
