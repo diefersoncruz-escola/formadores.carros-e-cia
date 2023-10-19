@@ -25,3 +25,6 @@ p{
     transform: translate(-50%, -50%);
   }
   
+  .div-center > * {
+    flex: 1; /* todos os itens dentro da div terão o mesmo espaço */
+  }
