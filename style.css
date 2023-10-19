@@ -6,8 +6,8 @@ p{
 }
 
 .div-center {
-    background-color: lightslategray;
-    display: grid;
+    display: flex;
+    background-color: whitesmoke;
     justify-content: center; /* alinha horizontalmente */
     align-content: center; /* alinha verticalmente */
     height: 90vh; /* altura total da viewport */
