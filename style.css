@@ -14,8 +14,9 @@ p{
 
 .div-center {
     display: flex;
-    justify-content: center; /* alinha horizontalmente */
-    align-items: center; /* alinha verticalmente */
+    flex-direction: column; /* itens exibidos em uma coluna */
+    justify-content: center; /* alinha verticalmente */
+    align-items: center; /* alinha horizontalmente */
     background-color: whitesmoke;
     height: 90vh; /* 90% da altura total da viewport */
     width: 90vw; /* 90% da largura total da viewport */
@@ -25,6 +26,3 @@ p{
     transform: translate(-50%, -50%);
   }
   
-  .div-center > * {
-    flex: 1; /* todos os itens dentro da div terão o mesmo espaço */
-  }
