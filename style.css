@@ -7,7 +7,7 @@ header{
     top: 0; /* alinha ao topo */
     background-color: whitesmoke;
     height: 5vh; /* 5% da altura total da viewport */
-    width: 100vw; /* 100% da largura total da viewport */
+    width: 100%; /* 100% da largura total da viewport */
 }
 
 footer{
@@ -15,12 +15,11 @@ footer{
     bottom: 0; /* alinha ao fundo */
     background-color: whitesmoke;
     height: 5vh; /* 5% da altura total da viewport */
-    width: 100vw; /* 100% da largura total da viewport */
+    width: 100%; /* 100% da largura total da viewport */
 }
 
 h1{
     text-decoration: overline underline;
-    font-size: 10vh;
 }
 
 h2{
