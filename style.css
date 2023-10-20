@@ -6,7 +6,7 @@ header{
     position: fixed; /* fixa a posição */
     top: 0; /* alinha ao topo */
     background-color: whitesmoke;
-    height: 5vh; /* 5% da altura total da viewport */
+    height: 10vh; /* 5% da altura total da viewport */
     width: 100%; /* 100% da largura total da viewport */
 }
 
@@ -20,6 +20,7 @@ footer{
 
 h1{
     text-decoration: overline underline;
+    font-size: 10vh;
 }
 
 h2{
@@ -40,7 +41,7 @@ p{
     justify-content: center; /* alinha verticalmente */
     align-items: center; /* alinha horizontalmente */
     background-color: whitesmoke;
-    height: 90vh; /* 90% da altura total da viewport */
+    height: 85vh; /* 90% da altura total da viewport */
     width: 90vw; /* 90% da largura total da viewport */
     position: absolute;
     top: 50%;
