@@ -3,11 +3,16 @@ body{
 }
 
 header{
+    position: fixed; /* fixa a posição */
+    top: 0; /* alinha ao topo */
     background-color: whitesmoke;
     height: 5vh; /* 5% da altura total da viewport */
     width: 100vw; /* 100% da largura total da viewport */
 }
+
 footer{
+    position: fixed; /* fixa a posição */
+    bottom: 0; /* alinha ao fundo */
     background-color: whitesmoke;
     height: 5vh; /* 5% da altura total da viewport */
     width: 100vw; /* 100% da largura total da viewport */
