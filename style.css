@@ -1,20 +1,52 @@
-body{
-    background-color: whitesmoke;
-}
-h1{
-    text-decoration: overline underline;
-    font-size: 10vh;
-    color: crimson;
+body {
+    background-color: rgb(213, 212, 215);
 }
 
-h2{
+h1 {
+    text-decoration: overline underline;
+    text-align: center;
+    font-size: 10vh;
+    color: rgb(126, 129, 126);
+}
+
+h2 {
+    color: rgb(126, 129, 126);
+}
+
+h3 {
+    color: rgb(126, 129, 126);
+}
+
+img {
+    width: 40%;
+    display: block;
+    margin: auto;
+    border-width: 5px;
+    border-style: double;
+    border-radius: 5%;
+}
+
+li {
+    color: rgb(126, 129, 126);
+}
+
+.titulo-centralizado {
+    text-align: center;
     text-decoration: underline;
 }
 
-.titulo-centralizado{
-    text-align: center;
+p {
+    color: rgb(245, 129, 27);
+    font-style: oblique;
+    font-size: medium;
 }
 
-p{
-    color: crimson;
+.destaque {
+    color: rgb(126, 129, 126);
+    font-size: larger;
+    font-weight: bold;
+}
+
+.texto-centralizado {
+    text-align: center;
 }
